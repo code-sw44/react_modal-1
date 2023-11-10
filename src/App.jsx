@@ -17,7 +17,7 @@ function App() {
           <div className="open__modal">
             <div
               onClick={() => setOpenModal(!openModal)}
-              className="close__modal">X</div>
+              className="close__modal">XX</div>
           </div>
         )
       }
